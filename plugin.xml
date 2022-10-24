@@ -4,4 +4,6 @@
   <description>The plugin for all dependencies managment</description>
   <author>Galp Inc</author>
   
+   <dependency id="com.galp.plugins.ar" url="https://github.com/olvrronelio/Cordova-AR-Plugin.git" />
+   <!--dependency id="cordova-plugin-file" version=">=7.0.0" /-->
 </plugin>
