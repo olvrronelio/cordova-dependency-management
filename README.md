@@ -1,0 +1,1 @@
+# Galp - Cordova Plugin Dependency Management
